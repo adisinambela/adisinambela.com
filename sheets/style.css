@@ -8,9 +8,8 @@ body {
   height: 100%;
 }
 
-@-ms-viewport {
+.ms-viewport {
   width: device-width ;
-  zoom: 1.0 ;
 }
 
 .box {
