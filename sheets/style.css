@@ -2,8 +2,8 @@ body {
   margin: 0;
   padding: 0;
   background: url(./image/Website-Design-Background.jpg) no-repeat;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-size: contain;
   background-position: center;
 }
 .box {
