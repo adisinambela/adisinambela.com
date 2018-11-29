@@ -4,8 +4,7 @@ body {
   background: url(./image/Website-Design-Background.jpg) no-repeat;
   background-size: cover;
   background-position: center;
-  max-width: 100%;
-  height: auto;
+  height: 100%;
 }
 .box {
   width: 450px;
