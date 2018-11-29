@@ -2,15 +2,10 @@ body {
   margin: 0;
   padding: 0;
   background: url(./image/Website-Design-Background.jpg);
-  /* background-position: center center; */
-  /* background-attachment: fixed;  */
+  background-position: center center; */
+  background-attachment: fixed;  */
   background-size: cover;
   height: 100%;
-  width: 100%;
-}
-
-.ms-viewport {
-  width: device-width ;
 }
 
 .box {
